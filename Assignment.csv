@@ -1,0 +1,10 @@
+cust_id,month,prod_Name,sales
+1,Jan,Fruits,
+2,Jan,Vegetables,45000
+3,Jan,Dairy,67000
+4,Feb,Fruits,55000
+5,Feb,Vegetables,42000
+6,Feb,Dairy,32000
+7,Mar,Fruits,52000
+8,Mar,Vegetables,61000
+9,Mar,Dairy,43000
